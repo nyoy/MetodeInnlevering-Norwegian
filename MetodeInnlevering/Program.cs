@@ -6,7 +6,7 @@ namespace MetodeInnlevering
     {
         static void Main(string[] args)
         {
-            int[] mineTall = new int[5];
+            int[] mineTall = new int[7];
             int i;
             Console.Write("Innlevering - Metoder");
             Console.Write("\n\nRead og Print elementer av en array:\n");
