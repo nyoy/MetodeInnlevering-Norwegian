@@ -72,7 +72,7 @@ namespace MetodeInnlevering
                 Console.Write("{0}  ", item);
             }
         }
-        //Finner  sum av de 3  midterste elementet (median)/////////////////
+        //Finner  Median/////////////////
         public static void beregnmedian(int[] array) 
         {
             int n = array.Length;
