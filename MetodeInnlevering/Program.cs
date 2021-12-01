@@ -46,7 +46,9 @@ namespace MetodeInnlevering
                 sumavmidten(mineTall);
             }
 
-            Console.Write("\n");
+            Console.Write("\n\nTrykk enter for å avslutte");
+
+            Console.ReadLine();
         }
         /*///////////////////////METODER////////////////////////*/
         
